@@ -40,7 +40,7 @@ I am a web3/blockchain enthusiast acting as an investor and developer in this hu
 
 - 🔭 I’m currently working on geting my personal brand as a digital strategic consultant to the next level
 - 🌱 I’m currently learning Go Lang, Rust and Solidity
-- 🤔 I’m looking for some peers to build some big stuff in some blockchains as Algorand
+- 🤔 I’m looking fo some peers to build some big stuff in some blockchains as Algorand
 - 📫 How to reach me: contacto@diegorubiomorato.me
 
 ### :biking_man: Skills :
