@@ -1,6 +1,6 @@
 <!-- https://shields.io/ -->
 <div id="header" align="center">
-  <img src="git-pic-round.png" width="100"/>
+  <img src="media/git-pic-round.png" width="100"/>
   <div id="badges">
 	<a href="https://www.linkedin.com/in/diego-rubio-morato/">
 		<img src="https://img.shields.io/badge/LinkedIn-393C46?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn Badge"/>
