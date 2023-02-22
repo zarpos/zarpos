@@ -16,6 +16,13 @@
         alt="Profile views"/>
 </div>
 
+<p align="center">
+	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cled0xuft00060fkzftfc13lu/stats?cursusId=21&coalitionId=66" alt="drubio-m's 42 stats" /></a>
+</p>
+
+## ▪️ See my 42cursus progress ↙️ 
+
+[42cursus progress](https://github.com/zarpos/42cursus)
 ---
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -30,6 +37,11 @@
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarpos&layout=compact&langs_count=6e&title_color=FBA92C&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true" alt="Language count">
+</div>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 
 ---
