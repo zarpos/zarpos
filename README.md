@@ -20,9 +20,7 @@
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleftj9sk00060fmcpnm54ggs/stats?cursusId=21&coalitionId=66" alt="drubio-m's 42 stats" /></a>
 </p>
 
-## My Music for coding
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0MaisY0LOTujMxYVTG96tO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 ## ▪️ See my 42cursus progress ↙️ 
