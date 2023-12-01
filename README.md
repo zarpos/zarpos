@@ -16,9 +16,18 @@
         alt="Profile views"/>
 </div>
 
+
 <p align="center">
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleftj9sk00060fmcpnm54ggs/stats?cursusId=21&coalitionId=66" alt="drubio-m's 42 stats" /></a>
 </p>
+
+## My Music ↙️ 
+<div style="display: block; margin: 0 auto;">
+  <img src="media/spoty_new.jpg" alt="Portada" width="200" href="https://open.spotify.com/playlist/31234567890">
+</div>
+
+
+
 
 
 
@@ -48,6 +57,7 @@
 </div>
 
 ---
+
 
 ### :technologist: About Me :
 
