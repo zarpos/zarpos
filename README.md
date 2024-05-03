@@ -20,10 +20,10 @@
   <img src="media/spoty_new.jpg" alt="Portada" width="300" href="https://open.spotify.com/playlist/31234567890">
 </div>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<div align=center>
+	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/drubio-m?1337Badge=off&UM6P=off" alt="drubio-m's 42 stats" /></a>
 </div>
+
 
 ---
 
